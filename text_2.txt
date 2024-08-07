@@ -1,1 +1,13 @@
 this is from the github
+
+
+
+
+git pull --- to sync the changes or files in remote with local
+git fetch --- to update branches created in remote to local
+git switch -- to change between the branches
+git checkout-- to change along with creating new branch (git checkout -b "branch_name")
+git push --set-upstream origin "branch_name"   -- to push branch from local to remote
+git restore  --staged "file_name" --- to unstage the file which are added mistakenly
+
+
